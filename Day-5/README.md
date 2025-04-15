@@ -18,6 +18,8 @@ if pod goes doewn 3 problems we have to face:
 
 REPLICA SET:
 1.it is a kub. object --it will maintain min. no. of nodes 24*7(replica set is always maintain desired state=actual state)
+
+link for niranjan_kubernetes_manifest_files: https://github.com/nirudamle/niranjan_kubernetes_manifestfiles.git
 # it defines which pp. we have to deploy
 defines behaviour of the pod
 
