@@ -7,7 +7,7 @@ kubr-public--anyone can able to access resorce
 
 the time of cluster creation by default all the resources like metricx server,dns,....all are created in this
 
- ni.ppa yolpede w when
+
 
 when we deploy app. in prod. server.u will nwver deploy app. in default ns
 
