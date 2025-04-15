@@ -56,4 +56,4 @@ spec defines behaviour of the object.
 
 1 cpu=1000 millicores
 1gb=1024 mb
-
+github link for Retail-App_kubernetes:https://github.com/nirudamle/Retail-App_kubernetes.git
